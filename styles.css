@@ -1,0 +1,20 @@
+body{
+    background-color: violet;
+    }
+
+div {               
+					
+        line-height: 1.8em;             
+        
+        background: darkgreen;                 
+    
+        border-style: solid;                 
+    
+    }
+    p {
+
+        color:rgb(254, 163, 113);
+        border-style:solid;
+        border-color: black;
+      }
+    
